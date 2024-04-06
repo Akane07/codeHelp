@@ -5,7 +5,7 @@
         <UnregisteredHeader v-else :transparent="false" @login="handleLogin" @register="handleRegistration">
         </UnregisteredHeader>
         <img src="../../assets/Patern.svg"  class="patern">
-        <img src="../../assets/Image.png" alt="хуй сосите" class="homePageImage">
+        <img src="../../assets/Image.png" alt="" class="homePageImage">
         <div class="content">
             <p class="heroText">Основные языки программирования для начинающих</p>
             <p class="heroContext">Мы предоставляем вам доступ к лучшим курсам по изучению программирования, позволяя

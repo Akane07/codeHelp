@@ -16,4 +16,4 @@ const userStore = useUserStore();
 const CourseStore = useCourseStore();
 const router = useRouter();
 CourseStore.getCourseId(router.currentRoute.value.params.id, true);
-</script>
+</script> 
